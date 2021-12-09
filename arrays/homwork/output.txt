@@ -1,0 +1,64 @@
+Please enter the grades of the students.
+You should type 1. students  Literature, Maths, Physics and Chemistry grades,
+ afterly 2. students...   due to respect to the order
+1. students average grade is 50
+
+2. students average grade is 55
+
+3. students average grade is 55
+
+4. students average grade is 55
+
+5. students average grade is 65
+
+6. students average grade is 54
+
+7. students average grade is 44
+
+8. students average grade is 55
+
+9. students average grade is 65
+
+10. students average grade is 55
+
+1. students 
+	 max grade =>70
+	min grade =>32
+
+ 2. students 
+	 max grade =>70
+	min grade =>40
+
+ 3. students 
+	 max grade =>70
+	min grade =>40
+
+ 4. students 
+	 max grade =>70
+	min grade =>40
+
+ 5. students 
+	 max grade =>93
+	min grade =>40
+
+ 6. students 
+	 max grade =>66
+	min grade =>40
+
+ 7. students 
+	 max grade =>60
+	min grade =>28
+
+ 8. students 
+	 max grade =>70
+	min grade =>40
+
+ 9. students 
+	 max grade =>83
+	min grade =>50
+
+ 10. students 
+	 max grade =>70
+	min grade =>40
+
+ physics note of the most succesfull student in the maths=> 60
